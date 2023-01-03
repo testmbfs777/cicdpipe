@@ -5,4 +5,4 @@ name: Test and deploy
 on:
   push:
     branches:
-      - dev
+      - dev/*
