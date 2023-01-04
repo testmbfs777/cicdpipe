@@ -1,8 +1,0 @@
-## 1
-name: Test and deploy
-
-## Actions that will be executed when you push a commit
-on:
-  push:
-    branches:
-      - dev/*
